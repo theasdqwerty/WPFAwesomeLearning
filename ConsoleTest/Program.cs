@@ -7,6 +7,7 @@ namespace ConsoleTest
         public static void Main(string[] args)
         {
             Console.WriteLine("Sat hello misha!");
+            return;
         }
     }
 }
