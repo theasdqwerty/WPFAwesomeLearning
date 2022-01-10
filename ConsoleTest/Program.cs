@@ -6,7 +6,7 @@ namespace ConsoleTest
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Say hello");
+            Console.WriteLine("Sat hello misha!");
         }
     }
 }
